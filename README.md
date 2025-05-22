@@ -67,7 +67,7 @@ python setup.py build develop
 
 ## Implementation  
 
-You should train the **HetSGG** model in **shell/** directory.
+You should train the **TMPN** model in **shell/** directory.
 
 
 * Train  
